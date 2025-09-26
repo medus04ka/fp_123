@@ -6,7 +6,7 @@
 ---
 
 ### Список задач:
-5. [Smallest Multiple]((https://projecteuler.net/problem=5))
+5. [Smallest Multiple](https://projecteuler.net/problem=5)
 26. [Reciprocal Cycles](https://projecteuler.net/problem=26)
 
 ### Все задачи выполнены при помощи следующих методов:
